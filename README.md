@@ -1,4 +1,4 @@
-## Global Data Constraints: Ethical and Effectiveness Challenges in Large Language Model
+## ProblematicTokens
 
 ### Abstract
 The efficacy and ethical integrity of LLMs are profoundly influenced by the diversity and quality of their training datasets. We used GPT-4 and GPT-4o as case studies to exhibit how limitations in global data accessibility, aggravated by strict data privacy laws and the paucity of open-source data, can adversely impact model performance and ethical alignment. Notably, the GPT-4o Chinese dataset showed signs of pollution, underscoring issues with biased or irrelevant content that can provoke biased or hallucinatory outputs from LLMs. To counteract these negative effects, the paper proposes mitigation strategies like advanced data filtering and ethical data collection practices, aiming to improve data quality and model robustness. 
